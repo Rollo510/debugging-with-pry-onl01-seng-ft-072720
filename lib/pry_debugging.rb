@@ -1,5 +1,5 @@
 def plus_two(num)
-	addedNum = num + 2
-	addedNum
+	let addedNum = num + 2
+	puts addedNum
 	binding.pry
 end
